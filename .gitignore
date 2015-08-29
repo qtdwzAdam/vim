@@ -1,3 +1,6 @@
 vimfiles/view/*
-vimfiles/bundle/L9/*
+vimfiles/bundle/*
+vimfiles/vundle/*
 *.pyc
+*.zip
+*.rar
